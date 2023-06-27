@@ -1,0 +1,2 @@
+# JavaPratikler
+Temel çalışmalar yapıldı.
